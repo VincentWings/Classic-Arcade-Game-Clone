@@ -7,3 +7,7 @@ Open https://vincentwings.github.io/Classic-Arcade-Game-Clone/
 or Download / clone the repository :
 https://github.com/VincentWings/Classic-Arcade-Game-Clone.git and open index.html
 ```
+
+## Rules
+- Avoid the bugs.
+- Go to the river.
